@@ -6,6 +6,8 @@ Result across epochs
 
 
 ![History](https://github.com/dominhnhut01/UNet_implementation/blob/main/accuracy_plot.JPG?raw=true)
+
+
 Actual result when segmenting on images
 
 
